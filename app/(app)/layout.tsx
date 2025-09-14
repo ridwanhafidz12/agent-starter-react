@@ -15,7 +15,7 @@ export default async function AppLayout({ children }: AppLayoutProps) {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://livekit.io"
+          href="https://upgradeaja.com"
           className="scale-100 transition-transform duration-300 hover:scale-110"
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -32,10 +32,10 @@ export default async function AppLayout({ children }: AppLayoutProps) {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://docs.livekit.io/agents"
+            href="https://ridwanhafidz.my.id"
             className="underline underline-offset-4"
           >
-            LiveKit Agents
+            @Erenha._
           </a>
         </span>
       </header>
